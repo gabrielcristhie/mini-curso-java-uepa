@@ -1,6 +1,9 @@
 # Mini Curso Spring Boot - 1ª Jornada de Engenharia de Software da UEPA
 
+[Live Completa](https://youtu.be/kcP5e5IaKJI)
+
 Este projeto foi desenvolvido durante a 1ª Jornada de Engenharia de Software da Universidade do Estado do Pará (UEPA) utilizando Spring Boot e PostgreSQL.
+
 Descrição do Projeto
 
  O objetivo deste projeto é demonstrar a criação de uma API RESTful para gerenciamento de alunos e matérias. A aplicação foi desenvolvida com as seguintes tecnologias:
